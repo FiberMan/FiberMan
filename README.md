@@ -1,16 +1,25 @@
-## Hi there 👋
+![FiberMan Profile Picture](https://github.com/FiberMan/FiberMan/blob/main/profile_banner.png)
 
-<!--
-**FiberMan/FiberMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey 👋
+- I'm a software engineer, researcher, brainstormer.
+- I like to explore the boundaries of tech.
+- My favorite project is life.
 
-Here are some ideas to get you started:
+## Interests
+- software architecture
+- digital identities
+- decentralized systems
+- drones and IoT
+- making it valuable and simple 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+- **Languages**: Java, Python, Rust, JavaScript, TypeScript
+- **Blockchain**: Substrate, Polkadot, Web3 Tools
+- **Web Development**: React.js, Node.js, Django, Angular
+- **Cryptography & Security**: Digital currencies, Digital identities
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, ELK stack
+- **Big Data & Streaming**: Apache Kafka, Flink, Samza
+- **Databases & ETL**: PostgreSQL, Oracle Database, PL/SQL 
+- **Machine Learning**: TensorFlow, Keras, Scikit-learn
+- **Architecture**: Microservices
+
